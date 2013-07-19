@@ -1,0 +1,901 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RES4MED\n"
+"POT-Creation-Date: 2012-12-05 12:12+0100\n"
+"PO-Revision-Date: 2012-12-05 12:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: PWC\n"
+"Language: Francese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../../views\n"
+"X-Poedit-SearchPath-1: ../../models\n"
+
+#: ../../views/attachment/admin.php:3 ../../views/news/index.php:3
+msgid "Site Options"
+msgstr ""
+
+#: ../../views/attachment/admin.php:4 ../../views/attachment/admin.php:21
+#: ../../views/attachment/index.php:12 ../../views/news/index.php:4
+#: ../../views/news/index.php:11 ../../views/site/pages/siteContent.php:35
+msgid "Manage"
+msgstr ""
+
+#: ../../views/attachment/admin.php:21
+msgid "Organize the Images in Galleries"
+msgstr ""
+
+#: ../../views/attachment/admin.php:26
+msgid "Add New"
+msgstr ""
+
+#: ../../views/attachment/create.php:12
+msgid "Upload New Content"
+msgstr ""
+
+#: ../../views/attachment/create.php:12 ../../views/site/login.php:38
+msgid "Fields with"
+msgstr ""
+
+#: ../../views/attachment/create.php:12
+msgid "are required"
+msgstr ""
+
+#: ../../views/attachment/index.php:12
+msgid "Press Quotes/Documents/Governance"
+msgstr ""
+
+#: ../../views/attachment/_form.php:35 ../../views/attachment/_form.php:42
+#: ../../views/attachment/_form.php:51 ../../views/news/_form.php:37
+msgid "Use this text field to insert the title."
+msgstr ""
+
+#: ../../views/attachment/_form.php:41 ../../views/attachment/_form.php:79
+msgid "-- Please select a Type --"
+msgstr ""
+
+#: ../../views/attachment/_form.php:71
+msgid "-- Please select a Language --"
+msgstr ""
+
+#: ../../views/attachment/_form.php:72
+msgid "Select the language of the file being uploaded."
+msgstr ""
+
+#: ../../views/attachment/_form.php:80
+msgid "Use this text to select the type of report."
+msgstr ""
+
+#: ../../views/attachment/_form.php:91
+msgid "Select the Publication Date."
+msgstr ""
+
+#: ../../views/news/index.php:11
+msgid "News/Events/Newsletter"
+msgstr ""
+
+#: ../../views/news/_form.php:45
+msgid "Use this option to select the type of event being inserted."
+msgstr ""
+
+#: ../../views/news/_form.php:52
+msgid ""
+"A short description that summorises the main event. This will be visible on "
+"the home page."
+msgstr ""
+
+#: ../../views/news/_form.php:56
+msgid ""
+"This holds the body of the event , its possible to add images ,  videos and "
+"various formating options."
+msgstr ""
+
+#: ../../views/news/_form.php:65
+msgid "Select the Starting Date of the project."
+msgstr ""
+
+#: ../../views/news/_form.php:72
+msgid "Select the Ending Date of the event."
+msgstr ""
+
+#: ../../views/news/_form.php:87
+msgid ""
+"Use this form to upload relative documents. The following file types can be "
+"uploaded;..."
+msgstr ""
+
+#: ../../views/news/_form.php:94
+msgid ""
+"Use this form to upload relative documents. The following file types can be "
+"uploaded; jpg, gif, png, jpeg."
+msgstr ""
+
+#: ../../views/news/_form.php:99
+msgid "-- Archive This Article--"
+msgstr ""
+
+#: ../../views/news/_form.php:105
+msgid ""
+"Use this option to archive an event. \n"
+"            Once an event is archived it will not be visible on the home "
+"page."
+msgstr ""
+
+#: ../../views/news/_form.php:117
+msgid "Create"
+msgstr ""
+
+#: ../../views/news/_form.php:117
+msgid "Save"
+msgstr ""
+
+#: ../../views/site/history.php:13
+msgid "History"
+msgstr ""
+
+#: ../../views/site/history.php:13
+msgid "Get to know us Better"
+msgstr ""
+
+#: ../../views/site/history.php:18
+msgid "About Us / History"
+msgstr ""
+
+#: ../../views/site/history.php:21 ../../views/site/pages/mission.php:20
+msgid ""
+"RES4MED intends to be an additional reference point for Southern "
+"Mediterranean and \n"
+"Balkan stakeholders and expects to play the role of “network of networks” "
+"for\n"
+"the ongoing Mediterranean Initiatives by :"
+msgstr ""
+
+#: ../../views/site/history.php:30
+msgid "+ expand all"
+msgstr ""
+
+#: ../../views/site/history.php:35
+msgid "21 December 2011"
+msgstr ""
+
+#: ../../views/site/history.php:37
+msgid "Establishment of RES4MED"
+msgstr ""
+
+#: ../../views/site/home.php:8
+msgid "Welcome"
+msgstr ""
+
+#: ../../views/site/home.php:8
+msgid "to the RES4MED Knowledge Management System"
+msgstr ""
+
+#: ../../views/site/home.php:11
+msgid "KMS is intended to help you in"
+msgstr ""
+
+#: ../../views/site/home.php:14
+msgid ""
+"accessing qualified information through a direct link to sites and databases "
+"of initiatives/operators"
+msgstr ""
+
+#: ../../views/site/home.php:17
+msgid ""
+"achieving effectiveness in data gathering, thanks to straightforward query "
+"criteria"
+msgstr ""
+
+#: ../../views/site/home.php:20
+msgid ""
+"becoming part of a wide RES4MED platform of industrial, institutional, "
+"political and financing stakeholders"
+msgstr ""
+
+#: ../../views/site/home.php:23
+msgid ""
+"interacting with leading Initiatives, Consortia, Partnerships, assisting you "
+"in identifying new potential partnership"
+msgstr ""
+
+#: ../../views/site/home.php:26
+msgid ""
+"proposing and/or partecipating to specific projects and analyses "
+"(Initiatives, Consortia, Partnerships only)"
+msgstr ""
+
+#: ../../views/site/home.php:29
+msgid "being updated on RES4MED communication activities and learning events"
+msgstr ""
+
+#: ../../views/site/home.php:33
+msgid ""
+"Please feel free to let us know your opinions and feedbacks, by checking the "
+"related Feedback option."
+msgstr ""
+
+#: ../../views/site/home.php:41 ../../views/site/index.php:124
+msgid "News"
+msgstr ""
+
+#: ../../views/site/home.php:54 ../../views/site/index.php:137
+msgid "Events"
+msgstr ""
+
+#: ../../views/site/home.php:72
+msgid "Click to See Details"
+msgstr ""
+
+#: ../../views/site/home.php:79
+msgid "Profile"
+msgstr ""
+
+#: ../../views/site/home.php:79
+msgid "Overview"
+msgstr ""
+
+#: ../../views/site/index.php:17
+msgid "Per una crescita sostenibile"
+msgstr ""
+
+#: ../../views/site/index.php:21
+msgid "Pour le développement durable"
+msgstr ""
+
+#: ../../views/site/index.php:29
+msgid "For a Mediterranean sustainable growth"
+msgstr ""
+
+#: ../../views/site/index.php:39
+msgid ""
+"RES4MED is an Association set up at the end of 2011 by CESI, Edison, Enel \n"
+"                Green Power, GSE, PwC and Politecnico di Milano."
+msgstr ""
+
+#: ../../views/site/index.php:45
+msgid ""
+"RES4MED aims to promote renewable energy sources and to analyse the "
+"conditions \n"
+"                        for integrated electricity markets in the "
+"Mediterranean area; "
+msgstr ""
+
+#: ../../views/site/index.php:47
+msgid ""
+"it is meant as a think tank on energy context and perspectives of regional \n"
+"                        Mediterranean energy systems, to improve the "
+"political, economic, industrial\n"
+"                        and social framework and attract investments."
+msgstr ""
+
+#: ../../views/site/index.php:50
+msgid ""
+"Asja Ambiente, Fondazione Bordoni and Terna Plus have later joined as \n"
+"                            members while Althesys, RSE Ricerca di Sistema "
+"Energetico and Aper will act as affiliates."
+msgstr ""
+
+#: ../../views/site/index.php:56
+msgid ""
+"From its launch it will start a dialogue with other initiatives and \n"
+"                        institutional, industrial and financing stakeholders "
+"operating in the\n"
+"                        South Med and in the Balkans."
+msgstr ""
+
+#: ../../views/site/index.php:69
+msgid ""
+"The initiative RES4MED is intended as a network of networks, \n"
+"                in order to allow for communication and knowledge "
+"spillover \n"
+"                and offer a place for discussion, sharing and "
+"implementation\n"
+"                of scenarios, programs and projects."
+msgstr ""
+
+#: ../../views/site/index.php:77
+msgid ""
+"The sharing and management of information is a necessary starting\n"
+"                point for the realization of these objectives, to be "
+"achieved through\n"
+"                the creation of a network of capillary communication, "
+"accessible to\n"
+"                selected operators, under the framework of mutual exchange "
+"and collaboration."
+msgstr ""
+
+#: ../../views/site/index.php:85
+msgid ""
+"To this end, RES4MED implemented a system of knowledge management \n"
+"                (Knowledge Management System - KMS) developed and being "
+"developed by \n"
+"                many actors involved in technical, economic, regulatory and "
+"social topics,\n"
+"                concerning the development of renewable energy in the "
+"Mediterranean. "
+msgstr ""
+
+#: ../../views/site/index.php:94
+msgid ""
+"KMS is open to the contribution of institutions, investors, researchers\n"
+"                and any other stakeholder willing to share the mission and "
+"goals envisaged\n"
+"                by RES4MED."
+msgstr ""
+
+#: ../../views/site/index.php:104 ../../views/site/login.php:66
+msgid "Log in"
+msgstr ""
+
+#: ../../views/site/index.php:111
+msgid ""
+"\"What is the Mediterranean? A thousand things at once. Not a landscape but "
+"countless landscapes. \n"
+"                            Not a sea but  a succession of seas. Not one "
+"civilization, but more civilizations stacked one on the other.<br/>\n"
+"                            It was not given us as a free paradise, "
+"everything had to be built, often with much more effort than elsewhere. \n"
+"                            The Mediterranean is a space-movement \""
+msgstr ""
+
+#: ../../views/site/index.php:117
+msgid "Ferdinand Braudel"
+msgstr ""
+
+#: ../../views/site/index.php:117
+msgid "from “La Méditerranée\""
+msgstr ""
+
+#: ../../views/site/index.php:148
+msgid "Last Newsletter"
+msgstr ""
+
+#: ../../views/site/login.php:25
+msgid "Login"
+msgstr ""
+
+#: ../../views/site/login.php:25
+msgid "Please fill out the following form with your login credentials"
+msgstr ""
+
+#: ../../views/site/login.php:38
+msgid "are required."
+msgstr ""
+
+#: ../../views/site/pressQuotes.php:54 ../../models/Attachment.php:116
+#: ../../models/News.php:117
+msgid "Summary"
+msgstr "Petit Text"
+
+#: ../../views/site/publications.php:11 ../../views/site/publications.php:16
+msgid "Publications"
+msgstr ""
+
+#: ../../views/site/publications.php:11
+msgid "Reports and Position Papers on Issues of Global Interest"
+msgstr ""
+
+#: ../../views/site/publications.php:24
+msgid "Res4Med Reports"
+msgstr ""
+
+#: ../../views/site/publications.php:25
+msgid "Industry Reports"
+msgstr ""
+
+#: ../../views/site/pages/about.php:1
+msgid " - About"
+msgstr ""
+
+#: ../../views/site/pages/about.php:15
+msgid "About"
+msgstr ""
+
+#: ../../views/site/pages/about.php:15
+msgid "The Association activities"
+msgstr ""
+
+#: ../../views/site/pages/about.php:25
+msgid "About Us / About"
+msgstr ""
+
+#: ../../views/site/pages/about.php:31
+msgid ""
+"In order to carry out its statutory activities, RES4MED will focus its "
+"effort on the following tasks:"
+msgstr ""
+
+#: ../../views/site/pages/about.php:35
+msgid ""
+"Sharing and reinforcing strategies currently implemented by Mediterranean "
+"countries;"
+msgstr ""
+
+#: ../../views/site/pages/about.php:38
+msgid ""
+"Analyzing and consolidating the experience acquired through other public and "
+"private initiatives carried out in recent years;"
+msgstr ""
+
+#: ../../views/site/pages/about.php:41
+msgid ""
+"Implementing complementary and additional activities alongside those already "
+"underway, paying special attention to specific requirements in local areas;"
+msgstr ""
+
+#: ../../views/site/pages/about.php:44
+msgid ""
+"Providing suggestions and proposing plans that will encourage investments in "
+"South-Eastern Mediterranean countries, as well as in the Balkans;"
+msgstr ""
+
+#: ../../views/site/pages/about.php:47
+msgid ""
+"Working with those countries to prepare a medium-term integrated outlook "
+"foreseeing South-South markets integration, beside South-North connections, "
+"envisaging a growing need for energy exchange."
+msgstr ""
+
+#: ../../views/site/pages/contacts.php:1
+msgid " - Contacts"
+msgstr ""
+
+#: ../../views/site/pages/contacts.php:21
+#: ../../views/site/pages/contacts.php:26 ../../models/Project.php:209
+msgid "Contacts"
+msgstr ""
+
+#: ../../views/site/pages/contacts.php:26
+msgid "We want to hear form you"
+msgstr ""
+
+#: ../../views/site/pages/links.php:1
+msgid " - Links"
+msgstr ""
+
+#: ../../views/site/pages/links.php:21 ../../views/site/pages/links.php:25
+msgid "Links"
+msgstr ""
+
+#: ../../views/site/pages/links.php:25
+msgid "Find what you Need"
+msgstr ""
+
+#: ../../views/site/pages/members.php:1
+msgid " - Members & Affiliates"
+msgstr ""
+
+#: ../../views/site/pages/members.php:23
+msgid "Members & Affiliates"
+msgstr ""
+
+#: ../../views/site/pages/members.php:69
+msgid "Members"
+msgstr ""
+
+#: ../../views/site/pages/members.php:73
+msgid ""
+"Members can actively contribute to the Association decision making process \n"
+"            and to the implementation of RES4MED’s work program. Members "
+"will become part \n"
+"            of an international network of operators pursuing the same "
+"objectives. \n"
+"            Moreover, they attend conferences, congresses and other events "
+"organized by \n"
+"            RES4MED, and they receive regular publications and monographs "
+"edited by the Association."
+msgstr ""
+
+#: ../../views/site/pages/members.php:336
+msgid "Affiliates"
+msgstr ""
+
+#: ../../views/site/pages/members.php:341
+msgid ""
+" Affiliates, are involved in the Association life through the participation "
+"in the \n"
+"       working groups implementing RES4MED work program. Affiliates - "
+"becoming part of an \n"
+"       international networks – might attend conferences, congresses and "
+"other events \n"
+"       organized by RES4MED, and they receive regular publications and "
+"monographs edited \n"
+"       by the Association."
+msgstr ""
+
+#: ../../views/site/pages/mission.php:1
+msgid " - Mission"
+msgstr ""
+
+#: ../../views/site/pages/mission.php:8
+msgid "Mission"
+msgstr ""
+
+#: ../../views/site/pages/mission.php:8
+msgid "Our Mission Statement"
+msgstr ""
+
+#: ../../views/site/pages/mission.php:16
+msgid "About Us / Mission"
+msgstr ""
+
+#: ../../views/site/pages/mission.php:27
+msgid ""
+"contributing to a faster deployment of RE plants and systems in order to "
+"satisfy Mediterranean countries needs – both as large scale power and "
+"distributed generation;"
+msgstr ""
+
+#: ../../views/site/pages/mission.php:30
+msgid ""
+"supporting the planning and design of additional national electric grids to "
+"supply an efficient distribution of clean energy towards local consumption "
+"centres;"
+msgstr ""
+
+#: ../../views/site/pages/mission.php:33
+msgid ""
+"fostering medium term regional interconnections between Southern EU, "
+"Northern Africa and Balkans in order to facilitate import of part of the "
+"energy produced, also to enhance the relevance of bankability profiles of "
+"such projects;"
+msgstr ""
+
+#: ../../views/site/pages/mission.php:36
+msgid "considering social, economic benefits for host countries."
+msgstr ""
+
+#: ../../views/site/pages/siteContent.php:1
+msgid " - KMS Options"
+msgstr ""
+
+#: ../../views/site/pages/siteContent.php:16
+msgid "KMS Options"
+msgstr ""
+
+#: ../../views/site/pages/siteContent.php:20
+msgid "KMS Content"
+msgstr ""
+
+#: ../../views/site/pages/siteContent.php:20
+msgid "Manage KMS Site Content"
+msgstr ""
+
+#: ../../views/site/pages/siteContent.php:29
+msgid "Lists and Options"
+msgstr ""
+
+#: ../../views/site/pages/siteContent.php:31
+msgid ""
+" Here you will find options that will allow you to \n"
+"                        manage dropdown lists."
+msgstr ""
+
+#: ../../models/Attachment.php:113
+msgid "Id Attachment"
+msgstr ""
+
+#: ../../models/Attachment.php:114 ../../models/BridgeLookup.php:73
+#: ../../models/Comment.php:80 ../../models/Project.php:177
+#: ../../models/Review.php:79
+msgid "Id Project"
+msgstr ""
+
+#: ../../models/Attachment.php:115 ../../models/News.php:114
+msgid "Title"
+msgstr ""
+
+#: ../../models/Attachment.php:117 ../../models/News.php:121
+msgid "File Name"
+msgstr ""
+
+#: ../../models/Attachment.php:118
+msgid "File Type"
+msgstr ""
+
+#: ../../models/Attachment.php:119
+msgid "File Hash"
+msgstr ""
+
+#: ../../models/Attachment.php:120
+msgid "File Size"
+msgstr ""
+
+#: ../../models/Attachment.php:121 ../../models/Comment.php:83
+#: ../../models/Meeting.php:83 ../../models/Project.php:202
+#: ../../models/Review.php:81
+msgid "Creation Date"
+msgstr ""
+
+#: ../../models/Attachment.php:122 ../../models/EventLog.php:85
+#: ../../models/News.php:115
+msgid "Date"
+msgstr ""
+
+#: ../../models/Attachment.php:123 ../../models/Meeting.php:88
+msgid "Location"
+msgstr ""
+
+#: ../../models/Attachment.php:124 ../../models/Comment.php:81
+#: ../../models/EventLog.php:81 ../../models/Meeting.php:82
+msgid "Id User"
+msgstr ""
+
+#: ../../models/Attachment.php:125 ../../models/News.php:122
+msgid "Upload File"
+msgstr ""
+
+#: ../../models/Attachment.php:126
+msgid "Report Type"
+msgstr ""
+
+#: ../../models/Attachment.php:127
+msgid "Doc Language"
+msgstr ""
+
+#: ../../models/Attachment.php:128
+msgid "Img Gallery"
+msgstr ""
+
+#: ../../models/Attachment.php:129 ../../models/News.php:124
+msgid "Image"
+msgstr ""
+
+#: ../../models/Attachment.php:130 ../../models/News.php:123
+msgid "Upload Image"
+msgstr ""
+
+#: ../../models/Attachment.php:131
+msgid "Type Of Report"
+msgstr ""
+
+#: ../../models/BridgeLookup.php:72
+msgid "Id Bridge Lookup"
+msgstr ""
+
+#: ../../models/BridgeLookup.php:74 ../../models/Lookup.php:87
+msgid "Id Lookup"
+msgstr ""
+
+#: ../../models/BridgeLookup.php:75 ../../models/Lookup.php:90
+msgid "Type"
+msgstr ""
+
+#: ../../models/Comment.php:79
+msgid "Id Comment"
+msgstr ""
+
+#: ../../models/Comment.php:82 ../../models/Feedback.php:89
+#: ../../models/Review.php:80
+msgid "Message"
+msgstr ""
+
+#: ../../models/EventLog.php:80
+msgid "Id Event"
+msgstr ""
+
+#: ../../models/EventLog.php:82
+msgid "Id Item"
+msgstr ""
+
+#: ../../models/EventLog.php:83
+msgid "Table Name"
+msgstr ""
+
+#: ../../models/EventLog.php:84
+msgid "Event Type"
+msgstr ""
+
+#: ../../models/EventLog.php:86
+msgid "Stored Values"
+msgstr ""
+
+#: ../../models/Feedback.php:86
+msgid "Id Feedback"
+msgstr ""
+
+#: ../../models/Feedback.php:87 ../../models/News.php:113
+msgid "User Name"
+msgstr ""
+
+#: ../../models/Feedback.php:88
+msgid "Creation Time"
+msgstr ""
+
+#: ../../models/LoginForm.php:39
+msgid "Remember me next time"
+msgstr ""
+
+#: ../../models/Lookup.php:88
+msgid "Name"
+msgstr ""
+
+#: ../../models/Lookup.php:89
+msgid "Code"
+msgstr ""
+
+#: ../../models/Lookup.php:91
+msgid "Position"
+msgstr ""
+
+#: ../../models/Lookup.php:92
+msgid "Type of Select"
+msgstr ""
+
+#: ../../models/Lookup.php:93
+msgid "Acronim"
+msgstr ""
+
+#: ../../models/Meeting.php:81
+msgid "Id Meeting"
+msgstr ""
+
+#: ../../models/Meeting.php:84
+msgid "Update Date"
+msgstr ""
+
+#: ../../models/Meeting.php:85 ../../models/Project.php:185
+msgid "Start Date"
+msgstr ""
+
+#: ../../models/Meeting.php:86 ../../models/News.php:116
+#: ../../models/Project.php:186
+msgid "End Date"
+msgstr ""
+
+#: ../../models/Meeting.php:87
+msgid "Subscribe Datre"
+msgstr ""
+
+#: ../../models/Meeting.php:89
+msgid "Meeting Name"
+msgstr ""
+
+#: ../../models/Meeting.php:90
+msgid "Subscribe"
+msgstr ""
+
+#: ../../models/News.php:67 ../../models/News.php:73
+msgid "The file was larger than 50MB. Please upload a smaller file."
+msgstr ""
+
+#: ../../models/News.php:112
+msgid "Id News"
+msgstr ""
+
+#: ../../models/News.php:118
+msgid "Article Body"
+msgstr ""
+
+#: ../../models/News.php:119
+msgid "Archived"
+msgstr ""
+
+#: ../../models/News.php:120
+msgid "Type Of Article"
+msgstr ""
+
+#: ../../models/Project.php:178
+msgid "Created By"
+msgstr ""
+
+#: ../../models/Project.php:179
+msgid "Project Title"
+msgstr ""
+
+#: ../../models/Project.php:180
+msgid "Abstract"
+msgstr ""
+
+#: ../../models/Project.php:181
+msgid "Objectives"
+msgstr ""
+
+#: ../../models/Project.php:182
+msgid "Activities"
+msgstr ""
+
+#: ../../models/Project.php:183
+msgid "Results"
+msgstr ""
+
+#: ../../models/Project.php:184
+msgid "Services"
+msgstr ""
+
+#: ../../models/Project.php:187
+msgid "Status"
+msgstr ""
+
+#: ../../models/Project.php:188 ../../models/Project.php:201
+msgid "Duration"
+msgstr ""
+
+#: ../../models/Project.php:189
+msgid "Duration Type"
+msgstr ""
+
+#: ../../models/Project.php:190
+msgid "Value"
+msgstr ""
+
+#: ../../models/Project.php:191
+msgid "Value Type"
+msgstr ""
+
+#: ../../models/Project.php:192
+msgid "Link"
+msgstr ""
+
+#: ../../models/Project.php:193
+msgid "References"
+msgstr ""
+
+#: ../../models/Project.php:194
+msgid "Country"
+msgstr ""
+
+#: ../../models/Project.php:195
+msgid "Team Leader"
+msgstr ""
+
+#: ../../models/Project.php:196
+msgid "Team Member"
+msgstr ""
+
+#: ../../models/Project.php:197
+msgid "External Partner"
+msgstr ""
+
+#: ../../models/Project.php:198
+msgid "Category"
+msgstr ""
+
+#: ../../models/Project.php:199
+msgid "Finance Scheme"
+msgstr ""
+
+#: ../../models/Project.php:200
+msgid "Type Value"
+msgstr ""
+
+#: ../../models/Project.php:203 ../../models/Review.php:83
+msgid "Project Status"
+msgstr ""
+
+#: ../../models/Project.php:204
+msgid "Other Country"
+msgstr ""
+
+#: ../../models/Project.php:205
+msgid "Other Team Member"
+msgstr ""
+
+#: ../../models/Project.php:206
+msgid "Other External Partner"
+msgstr ""
+
+#: ../../models/Project.php:207
+msgid "Other Category"
+msgstr ""
+
+#: ../../models/Project.php:208
+msgid "Other Finance Scheme"
+msgstr ""
+
+#: ../../models/Project.php:210
+msgid "Macro Area"
+msgstr ""
+
+#: ../../models/Review.php:78
+msgid "Id Review"
+msgstr ""
+
+#: ../../models/Review.php:82
+msgid "Creation User"
+msgstr ""

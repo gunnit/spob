@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RES4MED\n"
+"POT-Creation-Date: 2013-05-13 10:54+0100\n"
+"PO-Revision-Date: 2013-05-13 10:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: PWC\n"
+"Language: Francese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../../views\n"
+"X-Poedit-SearchPath-1: ../../models\n"
+
+#: ../../views/bridgecontract/admin.php:49
+#: ../../views/bridgecontract/employee.php:57
+msgid "Title"
+msgstr ""
+
+#: ../../views/bridgecontract/employee.php:34
+msgid "Applied Jobs"
+msgstr ""
+
+#: ../../views/bridgecontract/employee.php:34
+msgid "All Jobs applied by me"
+msgstr ""
+
+#: ../../views/bridgecontract/employee.php:64
+#: ../../views/employercontract/details/applied.php:23
+#: ../../models/EmployerContract.php:106
+msgid "Start Date"
+msgstr ""
+
+#: ../../views/bridgecontract/employee.php:68
+#: ../../views/employercontract/details/applied.php:27
+#: ../../models/EmployerContract.php:107
+msgid "End Date"
+msgstr ""
+
+#: ../../views/bridgecontract/employee.php:73
+#: ../../views/employercontract/details/applied.php:31
+msgid "cost"
+msgstr ""
+
+#: ../../views/employercontract/admin.php:33 ../../views/layouts/main.php:92
+msgid "Search For Jobs"
+msgstr ""
+
+#: ../../views/employercontract/admin.php:33
+msgid "Find the right job for you"
+msgstr ""
+
+#: ../../views/employercontract/admin.php:79
+#: ../../views/employercontract/details/applied.php:17
+#: ../../models/BridgeContract.php:66 ../../models/EmployerContract.php:108
+msgid "User"
+msgstr ""
+
+#: ../../views/employercontract/contractor.php:32
+msgid "List of My Jobs"
+msgstr ""
+
+#: ../../views/employercontract/contractor.php:32
+#: ../../views/employercontract/index.php:28
+msgid "Keep up to date"
+msgstr ""
+
+#: ../../views/employercontract/create.php:19
+msgid "Creaye Job"
+msgstr ""
+
+#: ../../views/employercontract/create.php:19
+msgid "Fields with"
+msgstr ""
+
+#: ../../views/employercontract/create.php:19
+msgid "are required"
+msgstr ""
+
+#: ../../views/employercontract/index.php:28
+msgid "List of all Jobs"
+msgstr ""
+
+#: ../../views/employercontract/index.php:47
+#: ../../views/employercontract/index.php:105
+#: ../../views/employercontract/_view.php:6
+#: ../../views/employercontract/_view.php:62
+msgid "View Details"
+msgstr ""
+
+#: ../../views/employercontract/index.php:96
+#: ../../views/employercontract/_view.php:53
+msgid "Open"
+msgstr ""
+
+#: ../../views/employercontract/view.php:43
+msgid "No one has yet applied for this Spot Yob"
+msgstr ""
+
+#: ../../views/employercontract/view.php:45
+msgid "Currently "
+msgstr ""
+
+#: ../../views/employercontract/view.php:45
+msgid " have applied to this job posting"
+msgstr ""
+
+#: ../../views/employercontract/view.php:59
+msgid "View Job Details for #"
+msgstr ""
+
+#: ../../views/employercontract/view.php:64
+#: ../../views/employercontract/_form.php:83
+msgid "Job Details"
+msgstr ""
+
+#: ../../views/employercontract/view.php:67
+#: ../../views/employercontract/_form.php:87
+msgid "Date & Time"
+msgstr ""
+
+#: ../../views/employercontract/view.php:70
+#: ../../views/employercontract/_form.php:90
+#: ../../models/EmployerContract.php:109
+msgid "Location"
+msgstr ""
+
+#: ../../views/employercontract/view.php:73
+#: ../../views/employercontract/_form.php:93
+msgid "Details"
+msgstr ""
+
+#: ../../views/employercontract/view.php:246
+msgid "Back"
+msgstr ""
+
+#: ../../views/employercontract/_form.php:103
+msgid "The name or title of the job being inserted."
+msgstr ""
+
+#: ../../views/employercontract/_form.php:116
+msgid "Select a Job Type"
+msgstr ""
+
+#: ../../views/employercontract/_form.php:175
+msgid "Ending date and time of the meeting."
+msgstr ""
+
+#: ../../views/employercontract/_form.php:183
+msgid "Select a Day Period"
+msgstr ""
+
+#: ../../views/employercontract/_form.php:199
+msgid "Select a Country"
+msgstr ""
+
+#: ../../views/employercontract/_form.php:277
+msgid "Reset"
+msgstr ""
+
+#: ../../views/layouts/main.php:78
+msgid "Home"
+msgstr ""
+
+#: ../../views/layouts/main.php:81
+msgid "Menu"
+msgstr ""
+
+#: ../../views/layouts/main.php:86
+msgid "List all Jobs"
+msgstr ""
+
+#: ../../views/layouts/main.php:89
+msgid "Create a New Job"
+msgstr ""
+
+#: ../../views/layouts/main.php:96
+msgid "Employee Overview"
+msgstr ""
+
+#: ../../views/layouts/main.php:101 ../../views/layouts/main.php:113
+msgid "Profile"
+msgstr ""
+
+#: ../../views/layouts/main.php:104
+msgid "Applied For Jobs"
+msgstr ""
+
+#: ../../views/layouts/main.php:108
+msgid "Contractor"
+msgstr ""
+
+#: ../../views/layouts/main.php:116
+msgid "My Published Jobs"
+msgstr ""
+
+#: ../../views/layouts/main.php:128
+msgid "Login"
+msgstr ""
+
+#: ../../views/layouts/main.php:136
+msgid "Logout"
+msgstr ""
+
+#: ../../models/BridgeContract.php:65
+msgid "Id Bridge Contract"
+msgstr ""
+
+#: ../../models/BridgeContract.php:67 ../../models/EmployerContract.php:99
+msgid "Id Employer Contract"
+msgstr ""
+
+#: ../../models/BridgeContract.php:68
+msgid "Approved"
+msgstr ""
+
+#: ../../models/EmployerContract.php:100
+msgid "Job Title"
+msgstr ""
+
+#: ../../models/EmployerContract.php:101
+msgid "Description"
+msgstr ""
+
+#: ../../models/EmployerContract.php:102
+msgid "Compensation"
+msgstr ""
+
+#: ../../models/EmployerContract.php:103
+msgid "Cost Description"
+msgstr ""
+
+#: ../../models/EmployerContract.php:104
+msgid "Tipology"
+msgstr ""
+
+#: ../../models/EmployerContract.php:105 ../../models/PublicLink.php:80
+msgid "Creation Date"
+msgstr ""
+
+#: ../../models/EmployerContract.php:110
+msgid "Public"
+msgstr ""
+
+#: ../../models/EmployerContract.php:111
+msgid "Update Date"
+msgstr ""
+
+#: ../../models/EmployerContract.php:112
+msgid "Sceen"
+msgstr ""
+
+#: ../../models/EmployerContract.php:113
+msgid "Customer Facing"
+msgstr ""
+
+#: ../../models/EmployerContract.php:114
+msgid "Day Period"
+msgstr ""
+
+#: ../../models/EmployerContract.php:115
+msgid "Country"
+msgstr ""
+
+#: ../../models/EmployerContract.php:116
+msgid "City"
+msgstr ""
+
+#: ../../models/EmployerContract.php:117
+msgid "State"
+msgstr ""
+
+#: ../../models/EmployerContract.php:118
+msgid "Street"
+msgstr ""
+
+#: ../../models/EmployerContract.php:119
+msgid "Contact"
+msgstr ""
+
+#: ../../models/EmployerContract.php:120
+msgid "Cap"
+msgstr ""
+
+#: ../../models/PublicLink.php:79
+msgid "Link"
+msgstr ""
+
+#: ../../models/PublicLink.php:81
+msgid "Category"
+msgstr ""
+
+#~ msgid "Summary"
+#~ msgstr "Petit Text"

@@ -1,0 +1,1225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RoyaltyCollector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-23 10:23+0100\n"
+"PO-Revision-Date: 2013-05-23 10:24+0100\n"
+"Last-Translator: Domenico Caraccio <domenico.caraccio@it.pwc.com>\n"
+"Language-Team: PwC\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ../../views\n"
+"X-Poedit-SearchPath-1: ../../models\n"
+
+#: ../../views/bridgecontract/admin.php:49
+msgid "Title"
+msgstr "Titolo"
+
+#: ../../views/bridgecontract/employee.php:3
+#: ../../views/employercontract/admin.php:3
+#: ../../views/employercontract/contractor.php:3
+#: ../../views/employercontract/create.php:3
+#: ../../views/employercontract/update.php:3
+#: ../../views/employercontract/view.php:13
+#, fuzzy
+msgid "List all jobs"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/bridgecontract/employee.php:4
+#, fuzzy
+msgid "Applied jobs"
+msgstr "Lavori Applicati"
+
+#: ../../views/bridgecontract/employee.php:9
+#: ../../views/employercontract/admin.php:13
+#: ../../views/employercontract/contractor.php:13
+#: ../../views/employercontract/create.php:9
+#: ../../views/employercontract/update.php:10
+#, fuzzy
+msgid "List Jobs"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/bridgecontract/employee.php:13
+#: ../../views/employercontract/contractor.php:17
+#: ../../views/employercontract/create.php:13
+#: ../../views/employercontract/index.php:12
+#: ../../views/employercontract/update.php:14
+#, fuzzy
+msgid "Search A Job"
+msgstr "Cerca tutti i lavori"
+
+#: ../../views/bridgecontract/employee.php:20
+msgid "Applied Jobs"
+msgstr "Lavori Applicati"
+
+#: ../../views/bridgecontract/employee.php:20
+msgid "All Jobs applied by me"
+msgstr "Tutti i Lavori Applicati da me"
+
+#: ../../views/bridgecontract/employee.php:31
+#: ../../models/EmployerContract.php:100
+msgid "Job Title"
+msgstr "Titolo del Lavoro"
+
+#: ../../views/bridgecontract/employee.php:36
+#: ../../views/employercontract/details/applied.php:23
+#: ../../models/EmployerContract.php:106
+msgid "Start Date"
+msgstr "Data inizio"
+
+#: ../../views/bridgecontract/employee.php:40
+#: ../../views/employercontract/details/applied.php:27
+#: ../../models/EmployerContract.php:107
+msgid "End Date"
+msgstr "Data fine"
+
+#: ../../views/bridgecontract/employee.php:44
+msgid "Cost"
+msgstr ""
+
+#: ../../views/bridgecontract/employee.php:51
+#: ../../views/employercontract/index.php:51
+#: ../../views/employercontract/index.php:109
+#: ../../views/employercontract/_view.php:6
+#: ../../views/employercontract/_view.php:62
+#, fuzzy
+msgid "View Details"
+msgstr "Visualizza la società correlata"
+
+#: ../../views/employercontract/admin.php:4
+#, fuzzy
+msgid "Job Search"
+msgstr "Cerca"
+
+#: ../../views/employercontract/admin.php:9
+#: ../../views/employercontract/contractor.php:9
+#: ../../views/employercontract/index.php:8
+#: ../../views/employercontract/update.php:18
+#, fuzzy
+msgid "Create New Job"
+msgstr "Crea"
+
+#: ../../views/employercontract/admin.php:33 ../../views/layouts/main.php:102
+#: ../../views/layouts/main.php:123
+msgid "Search For Jobs"
+msgstr "Cerca tutti i lavori"
+
+#: ../../views/employercontract/admin.php:33
+msgid "Find the right job for you"
+msgstr "Trova il lavoro giusto per te"
+
+#: ../../views/employercontract/admin.php:40 ../../views/lookup/admin.php:33
+msgid "Advanced Search"
+msgstr "Ricerca avanzata"
+
+#: ../../views/employercontract/admin.php:82
+#: ../../views/employercontract/details/applied.php:18
+#: ../../models/BridgeContract.php:66 ../../models/EmployerContract.php:108
+msgid "User"
+msgstr "Utente"
+
+#: ../../views/employercontract/contractor.php:4
+#, fuzzy
+msgid "My Jobs"
+msgstr "Lista i miei lavori"
+
+#: ../../views/employercontract/contractor.php:31
+msgid "List of My Jobs"
+msgstr "Lista i miei lavori"
+
+#: ../../views/employercontract/contractor.php:31
+#: ../../views/employercontract/index.php:32
+msgid "Keep up to date"
+msgstr "Tieni mi aggiornato"
+
+#: ../../views/employercontract/create.php:19
+#, fuzzy
+msgid "Create Job"
+msgstr "Crea"
+
+#: ../../views/employercontract/create.php:19
+#: ../../views/employercontract/update.php:30
+msgid "Fields with"
+msgstr "I campi con"
+
+#: ../../views/employercontract/create.php:19
+#: ../../views/employercontract/update.php:30
+msgid "are required"
+msgstr "sono obbligatori"
+
+#: ../../views/employercontract/index.php:32
+msgid "List of all Jobs"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/employercontract/index.php:100
+#: ../../views/employercontract/_view.php:53
+msgid "Open"
+msgstr "Aperto"
+
+#: ../../views/employercontract/update.php:22
+#, fuzzy
+msgid "View Job"
+msgstr "Lavori Applicati"
+
+#: ../../views/employercontract/update.php:30
+#, fuzzy
+msgid "Update Job"
+msgstr "Aggiorna"
+
+#: ../../views/employercontract/view.php:53
+msgid "No one has yet applied for this Spot Yob"
+msgstr "Nessuno si ancora Applicato a questo lavoro"
+
+#: ../../views/employercontract/view.php:55
+#, fuzzy
+msgid "Currently "
+msgstr "Valuta"
+
+#: ../../views/employercontract/view.php:55
+msgid " have applied to this job posting"
+msgstr "si sono applicati a questo lavoro"
+
+#: ../../views/employercontract/view.php:68
+msgid "View Job Details for #"
+msgstr "Vedi i dettagli per #"
+
+#: ../../views/employercontract/view.php:73
+#: ../../views/employercontract/_form.php:83
+msgid "Job Details"
+msgstr "Dettagli Lavoro"
+
+#: ../../views/employercontract/view.php:76
+#: ../../views/employercontract/_form.php:87
+#, fuzzy
+msgid "Date & Time"
+msgstr "Creato il"
+
+#: ../../views/employercontract/view.php:79
+#: ../../views/employercontract/_form.php:90
+#: ../../models/EmployerContract.php:109
+#, fuzzy
+msgid "Location"
+msgstr "Posizione"
+
+#: ../../views/employercontract/view.php:82
+#: ../../views/employercontract/_form.php:93
+msgid "Details"
+msgstr "Dettagli"
+
+#: ../../views/employercontract/view.php:259
+msgid "Back"
+msgstr "Torna indietro"
+
+#: ../../views/employercontract/_form.php:103
+msgid "The name or title of the job being inserted."
+msgstr "Il titolo del lavoro che si sta inserendo"
+
+#: ../../views/employercontract/_form.php:116
+msgid "Select a Job Type"
+msgstr "Selezziona il tipo di lavoro "
+
+#: ../../views/employercontract/_form.php:175
+msgid "Ending date and time of the meeting."
+msgstr "Data di scadenza "
+
+#: ../../views/employercontract/_form.php:183
+msgid "Select a Day Period"
+msgstr "Selezziona una parte della giornata"
+
+#: ../../views/employercontract/_form.php:199
+#, fuzzy
+msgid "Select a Country"
+msgstr "Elimina Paese"
+
+#: ../../views/employercontract/_form.php:269
+msgid "Reset"
+msgstr "Resseta"
+
+#: ../../views/employercontract/_search.php:20
+msgid "-- Select a Tipology--"
+msgstr ""
+
+#: ../../views/employercontract/_search.php:30
+msgid ""
+"Search for the starting date of the job: use the select box to select a date "
+"range."
+msgstr ""
+
+#: ../../views/employercontract/_search.php:38
+msgid ""
+"Search for the ending date of the job: use the select box to select a date "
+"range."
+msgstr ""
+
+#: ../../views/employercontract/_search.php:57
+#: ../../views/employercontract/_search.php:67
+#, fuzzy
+msgid "-- Select a Job Profile--"
+msgstr "Selezziona il tipo di lavoro "
+
+#: ../../views/employercontract/_search.php:77
+#, fuzzy
+msgid "-- Select a Day Period--"
+msgstr "Selezziona una parte della giornata"
+
+#: ../../views/employercontract/details/applied.php:31
+msgid "cost"
+msgstr "costo"
+
+#: ../../views/employercontract/details/applied.php:38
+#, fuzzy
+msgid "Approve User"
+msgstr "Approvato"
+
+#: ../../views/employercontract/details/applied.php:44
+#, fuzzy
+msgid "View Resume"
+msgstr "Regole"
+
+#: ../../views/layouts/main.php:85
+msgid "Home"
+msgstr "Home"
+
+#: ../../views/layouts/main.php:88
+msgid "Employee Overview"
+msgstr "Lavoratore"
+
+#: ../../views/layouts/main.php:93 ../../views/layouts/main.php:111
+msgid "Profile"
+msgstr "Profilo"
+
+#: ../../views/layouts/main.php:96
+#, fuzzy
+msgid "Applied For Jobs"
+msgstr "Lavori Applicati"
+
+#: ../../views/layouts/main.php:99 ../../views/layouts/main.php:117
+#, fuzzy
+msgid "List all Jobs"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/layouts/main.php:106
+#, fuzzy
+msgid "Contractor"
+msgstr "Contratto"
+
+#: ../../views/layouts/main.php:114
+#, fuzzy
+msgid "My Published Jobs"
+msgstr "Lavori Applicati"
+
+#: ../../views/layouts/main.php:120
+#, fuzzy
+msgid "Create a New Job"
+msgstr "Crea"
+
+#: ../../views/layouts/main.php:135
+msgid "Login"
+msgstr "Accedi"
+
+#: ../../views/layouts/main.php:139
+msgid "Register"
+msgstr "Registrati"
+
+#: ../../views/layouts/main.php:143
+msgid "Logout"
+msgstr "Disconnetti"
+
+#: ../../views/layouts/main.php:224
+msgid "SPOB"
+msgstr ""
+
+#: ../../views/layouts/main.php:227 ../../views/site/pages/about.php:6
+#: ../../views/site/pages/employer.php:6
+msgid "About"
+msgstr "Informazioni"
+
+#: ../../views/layouts/main.php:228
+msgid "FAQ"
+msgstr ""
+
+#: ../../views/layouts/main.php:229
+msgid "Get in Touch"
+msgstr ""
+
+#: ../../views/layouts/main.php:230
+#, fuzzy
+msgid "Why Post a Job"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/lookup/_form.php:20
+msgid "Use this text field to insert the name of the extra option"
+msgstr ""
+
+#: ../../views/lookup/_form.php:28
+#, fuzzy
+msgid "Select a Type"
+msgstr "Selezziona il tipo di lavoro "
+
+#: ../../views/lookup/_form.php:40
+#, fuzzy
+msgid "Create"
+msgstr "Creata regola"
+
+#: ../../views/lookup/_form.php:40
+msgid "Save"
+msgstr "Salva"
+
+#: ../../views/site/contact.php:14
+msgid "Need some help, got some feedback - or just want to say hi?"
+msgstr ""
+
+#: ../../views/site/index.php:28
+msgid "Find A Job. Do it fast."
+msgstr "Trova un Lvoro infretta."
+
+#: ../../views/site/index.php:32
+msgid "Search"
+msgstr "Cerca"
+
+#: ../../views/site/index.php:67
+#, fuzzy
+msgid "Post A Job"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/site/index.php:73
+#, fuzzy
+msgid "Post a Job"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/site/index.php:82
+#, fuzzy
+msgid "Find a Job"
+msgstr "Lita di tutti i lavori"
+
+#: ../../views/site/index.php:88
+#, fuzzy
+msgid "View Jobs"
+msgstr "Lavori Applicati"
+
+#: ../../views/site/pages/about.php:4 ../../views/site/pages/employer.php:4
+#, fuzzy
+msgid " - About"
+msgstr "Informazioni"
+
+#: ../../views/site/pages/about.php:12
+msgid "SPOB is different"
+msgstr ""
+
+#: ../../views/site/pages/about.php:44
+msgid ""
+" We want to match you to the perfect part-time, casual or entry level job "
+"based on the things YOU care about. Here’s what’s special about SPOB:"
+msgstr ""
+
+#: ../../views/site/pages/employer.php:12
+msgid "Your next employee is just around the corner"
+msgstr ""
+
+#: ../../views/site/pages/employer.php:44
+msgid ""
+" SpotJobs is the best place to find casual, part-time and entry level staff "
+"- and heres why..."
+msgstr ""
+
+#: ../../views/site/pages/faq.php:3
+msgid " - Frequently asked questions"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:5
+msgid "Frequently asked questions"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:11
+msgid "Answers to some common questions about SPOB"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:53
+msgid ""
+"If there is a question not answered in the below list use the following form "
+"to send \n"
+"    it to our team "
+msgstr ""
+
+#: ../../views/site/pages/faq.php:55
+msgid "Question submit form "
+msgstr ""
+
+#: ../../views/site/pages/faq.php:60
+msgid "I can’t remember my username or password. What should I do?"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:63
+msgid ""
+"SPOB require a username - your 'username' is your email. If you signed up \n"
+"      using Facebook, you will need to use Facebook to login also. "
+msgstr ""
+
+#: ../../views/site/pages/faq.php:67
+msgid ""
+"If you have forgotten\n"
+"      your password, you can request a password reset and an email will be "
+"sent to you asking\n"
+"      for you to open a link to create a new password."
+msgstr ""
+
+#: ../../views/site/pages/faq.php:71
+msgid ""
+"Alternatively,\n"
+"      contact our customer service team."
+msgstr ""
+
+#: ../../views/site/pages/faq.php:77
+msgid "How am I contacted by an employer after I have applied?"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:80
+msgid ""
+"When you apply for a job on SPOB, the employer is sent your Visual CV,\n"
+"     which includes the method of contact you have selected (email, mobile "
+"or Skype)."
+msgstr ""
+
+#: ../../views/site/pages/faq.php:83
+msgid ""
+"Whilst we strongly encourage employers to notify job seekers\n"
+"        if they were not successfully, we cannot enforce this so you may "
+"not\n"
+"        always receive a response to your application."
+msgstr ""
+
+#: ../../views/site/pages/faq.php:90
+msgid "Do I have to be registered to apply for a job?"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:92
+msgid ""
+"Yes, but dont worry registration is free and really fast. \n"
+"            On SPOB most of our jobs do not require a full resume - as part "
+"of \n"
+"                the signup process you build a Visual CV that is sent to "
+"employers when\n"
+"                you apply for a job. Your Visual CV is a summary of your key "
+"information\n"
+"            that will assist employers make an easy decision on your "
+"suitability,\n"
+"            in turn decreasing the amount of time it takes for you to find "
+"out if you \n"
+"                are successful in your application! We will pull some of the "
+"information \n"
+"                    for your Visual CV from Facebook (your name, about you, "
+"education,\n"
+"                    work experience) but dont worry - you will be able to "
+"edit it before we\n"
+"                send it to an employer"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:107
+msgid "Is there a limit to how many jobs I can apply for?"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:109
+msgid ""
+"No. Apply for as many jobs as you like. The higher the \n"
+"          percentage match, the more suitable you are and the greater chance "
+"you have\n"
+"          to secure that job!"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:117
+msgid "How do employers find me?"
+msgstr ""
+
+#: ../../views/site/pages/faq.php:119
+msgid ""
+"When our unique filters match you with job opportunities \n"
+"          that are suitable for you, you can apply if you have created a "
+"profile. \n"
+"          From there employers will be notified of your application. \n"
+"          Employers will also be able to notify you of certain job "
+"opportunities \n"
+"          via SMS and push notifications providing you are suitable for "
+"that \n"
+"              job opportunity, so be sure to download the SPOB app!!"
+msgstr ""
+
+#: ../../models/BridgeContract.php:65
+#, fuzzy
+msgid "Id Bridge Contract"
+msgstr "Id Contratto"
+
+#: ../../models/BridgeContract.php:67 ../../models/EmployerContract.php:99
+#, fuzzy
+msgid "Id Employer Contract"
+msgstr "Id Contratto"
+
+#: ../../models/BridgeContract.php:68
+msgid "Approved"
+msgstr "Approvato"
+
+#: ../../models/EmployerContract.php:101
+msgid "Description"
+msgstr "Descrizione prodotto"
+
+#: ../../models/EmployerContract.php:102
+#, fuzzy
+msgid "Compensation"
+msgstr "Operazioni"
+
+#: ../../models/EmployerContract.php:103
+#, fuzzy
+msgid "Cost Description"
+msgstr "Descrizione prodotto"
+
+#: ../../models/EmployerContract.php:104
+msgid "Tipology"
+msgstr "Tipologia"
+
+#: ../../models/EmployerContract.php:105 ../../models/PublicLink.php:80
+#, fuzzy
+msgid "Creation Date"
+msgstr "Nuovo contatto"
+
+#: ../../models/EmployerContract.php:110
+msgid "Public"
+msgstr "Publico"
+
+#: ../../models/EmployerContract.php:111
+#, fuzzy
+msgid "Update Date"
+msgstr "Aggiornato la regola"
+
+#: ../../models/EmployerContract.php:112
+msgid "Sceen"
+msgstr "Vista"
+
+#: ../../models/EmployerContract.php:113
+msgid "Customer Facing"
+msgstr "Contatto Con il Cliente"
+
+#: ../../models/EmployerContract.php:114
+#, fuzzy
+msgid "Day Period"
+msgstr "Periodo"
+
+#: ../../models/EmployerContract.php:115
+msgid "Country"
+msgstr "Paese"
+
+#: ../../models/EmployerContract.php:116
+msgid "City"
+msgstr "Città"
+
+#: ../../models/EmployerContract.php:117
+#, fuzzy
+msgid "State"
+msgstr "Stato"
+
+#: ../../models/EmployerContract.php:118
+msgid "Street"
+msgstr "Indirizzo (Via)"
+
+#: ../../models/EmployerContract.php:119
+msgid "Contact"
+msgstr "Contatti"
+
+#: ../../models/EmployerContract.php:120
+msgid "Cap"
+msgstr "CAP"
+
+#: ../../models/PublicLink.php:79
+msgid "Link"
+msgstr "Link"
+
+#: ../../models/PublicLink.php:81
+msgid "Category"
+msgstr "Cattegoria"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Channels"
+#~ msgstr "Canali di vendita"
+
+#~ msgid "Manage"
+#~ msgstr "Gestione"
+
+#~ msgid "List Channel"
+#~ msgstr "Canali di vendita"
+
+#~ msgid "Create Channel"
+#~ msgstr "Nuovo canale di vendita"
+
+#~ msgid "Manage Channels"
+#~ msgstr "Gestisci i canali di vendita"
+
+#~ msgid "You may optionally enter a comparison operator"
+#~ msgstr "Puoi utilizzare un operatore di comparazione"
+
+#~ msgid "or"
+#~ msgstr "o"
+
+#~ msgid ""
+#~ "at the beginning of each of your search values to specify how the "
+#~ "comparison should be done."
+#~ msgstr ""
+#~ "all'inizio di ogni valore da ricercare per specificare come effettuare il "
+#~ "confronto."
+
+#~ msgid "Manage Channel"
+#~ msgstr "Gestisci i canali di vendita"
+
+#~ msgid "View Channel"
+#~ msgstr "Canale di vendita"
+
+#~ msgid "Update Channel"
+#~ msgstr "Aggiorna canale di vendita"
+
+#~ msgid "Delete Channel"
+#~ msgstr "Cancella il canale di vendita"
+
+#~ msgid "Contacts"
+#~ msgstr "Contatti"
+
+#~ msgid "List Contact"
+#~ msgstr "Elenco contatti"
+
+#~ msgid "Manage Contacts"
+#~ msgstr "Gestisci i contatti"
+
+#~ msgid "Manage Contact"
+#~ msgstr "Gestisci il contatto"
+
+#~ msgid "Back to licensee"
+#~ msgstr "Torna al licenziatario"
+
+#~ msgid "View Contact"
+#~ msgstr "Contatto"
+
+#~ msgid "Update Contact"
+#~ msgstr "Aggiorna il contatto"
+
+#~ msgid "Delete Contact"
+#~ msgstr "Cancella il contatto"
+
+#~ msgid "Are you sure you want to delete this item?"
+#~ msgstr "Sei sicuro di voler cancellare questo elemento?"
+
+#~ msgid "Contracts"
+#~ msgstr "Contratti"
+
+#~ msgid "Manage Contracts"
+#~ msgstr "Gestisci i contratti"
+
+#~ msgid "List Contract"
+#~ msgstr "Elenco contratti"
+
+#~ msgid "Manage Contract"
+#~ msgstr "Gestisci contratto"
+
+#~ msgid "Create Contract"
+#~ msgstr "Nuovo contratto"
+
+#~ msgid "View Contract"
+#~ msgstr "Contratto"
+
+#~ msgid "Update Contract"
+#~ msgstr "Aggiorna contratto"
+
+#~ msgid "Licensee"
+#~ msgstr "Licenziatario"
+
+#~ msgid "Delete Contract"
+#~ msgstr "Cancella contratto"
+
+#~ msgid "Add New Minimum Guarantee"
+#~ msgstr "Aggiungi nuovo minimo garantito"
+
+#~ msgid "Add New Product"
+#~ msgstr "Aggiungi un nuovo prodotto"
+
+#~ msgid "Add New Rule"
+#~ msgstr "Aggiungi una nuova regola"
+
+#~ msgid "Minimum Guarantee"
+#~ msgstr "Minimo garantito"
+
+#~ msgid "Products"
+#~ msgstr "Prodotti"
+
+#~ msgid "Rules"
+#~ msgstr "Regola"
+
+#~ msgid "Countries"
+#~ msgstr "Paesi"
+
+#~ msgid "List Country"
+#~ msgstr "Elenco Paesi"
+
+#~ msgid "Create Country"
+#~ msgstr "Nuovo Paese"
+
+#~ msgid "Manage Countries"
+#~ msgstr "Gestisci i Paesi"
+
+#~ msgid "Manage Country"
+#~ msgstr "Gestisci il Paese"
+
+#~ msgid "View Country"
+#~ msgstr "Paese"
+
+#~ msgid "Update Country"
+#~ msgstr "Aggiorna Paese"
+
+#~ msgid "Currencies"
+#~ msgstr "Valute"
+
+#~ msgid "List Currency"
+#~ msgstr "Elenco valute"
+
+#~ msgid "Create Currency"
+#~ msgstr "Nuova valuta"
+
+#~ msgid "Manage Currencies"
+#~ msgstr "Gestisci valute"
+
+#~ msgid "Manage Currency"
+#~ msgstr "Gestisci valuta"
+
+#~ msgid "View Currency"
+#~ msgstr "Valuta"
+
+#~ msgid "Update Currency"
+#~ msgstr "Aggiorna valuta"
+
+#~ msgid "Delete Currency"
+#~ msgstr "Elimina valuta"
+
+#~ msgid "Entities"
+#~ msgstr "Società correlate"
+
+#~ msgid "List Entity"
+#~ msgstr "Elenco società correlate"
+
+#~ msgid "Create Entity"
+#~ msgstr "Crea una società correlata"
+
+#~ msgid "Manage Entities"
+#~ msgstr "Gestisci le società correlate"
+
+#~ msgid "Manage Entity"
+#~ msgstr "Gestisci le società correlate"
+
+#~ msgid "Update Entity"
+#~ msgstr "Aggiorna la società correlata"
+
+#~ msgid "Delete Entity"
+#~ msgstr "Elimina la società correlata"
+
+#~ msgid "Licensees"
+#~ msgstr "Licenziatari"
+
+#~ msgid "Users"
+#~ msgstr "Utenti"
+
+#~ msgid "Lookups"
+#~ msgstr "Chiavi di lookup"
+
+#~ msgid "Please select your preferred language:"
+#~ msgstr "Seleziona la tua lingua:"
+
+#~ msgid "List Licensee"
+#~ msgstr "Elenco licenziatari"
+
+#~ msgid "Create Licensee"
+#~ msgstr "Nuovo licenziatario"
+
+#~ msgid "Manage Licensees"
+#~ msgstr "Gestisci i licenziatari"
+
+#~ msgid "Manage Licensee"
+#~ msgstr "Gestisci i licenziatari"
+
+#~ msgid "View Licensee"
+#~ msgstr "Licenziatario"
+
+#~ msgid "Update Licensee"
+#~ msgstr "Aggiorna il licenziatario"
+
+#~ msgid "Delete Licensee"
+#~ msgstr "Elimina il licenziatario"
+
+#~ msgid "Add New Contract"
+#~ msgstr "Nuovo contratto"
+
+#~ msgid "Add New Contact"
+#~ msgstr "Nuovo contatto"
+
+#~ msgid "Add New Entity"
+#~ msgstr "Nuova società correlata"
+
+#~ msgid "List Lookup"
+#~ msgstr "Elenca chiavi di lookup"
+
+#~ msgid "Create Lookup"
+#~ msgstr "Nuova chiave di lookup"
+
+#~ msgid "Manage Lookups"
+#~ msgstr "Gestisci le chiavi di lookup"
+
+#~ msgid "Manage Lookup"
+#~ msgstr "Gestisci la chiave di lookup"
+
+#~ msgid "View Lookup"
+#~ msgstr "Chiave di lookup"
+
+#~ msgid "Update lookup"
+#~ msgstr "Aggiorna la chiave di lookup"
+
+#~ msgid "Update Lookup"
+#~ msgstr "Aggiorna la chiave di lookup"
+
+#~ msgid "Delete Lookup"
+#~ msgstr "Elimina la chiave di lookup"
+
+#~ msgid "Minimums"
+#~ msgstr "Minimi garantiti"
+
+#~ msgid "List Minimum"
+#~ msgstr "Elenco dei minimi garantiti"
+
+#~ msgid "Create Minimum"
+#~ msgstr "Nuovo minimo garantito"
+
+#~ msgid "Manage Minimums"
+#~ msgstr "Gestisci i minimi garantiti"
+
+#~ msgid "Manage Minimum"
+#~ msgstr "Gestisci il minimo garantito"
+
+#~ msgid "Back to contract"
+#~ msgstr "Torna al contratto"
+
+#~ msgid "View Minimum"
+#~ msgstr "Minimo garantito"
+
+#~ msgid "Update Minimum"
+#~ msgstr "Aggiorna il minimo garantito"
+
+#~ msgid "Delete Minimum"
+#~ msgstr "Elimina il minimo garantito"
+
+#~ msgid "Prices"
+#~ msgstr "Prezzi"
+
+#~ msgid "List Price"
+#~ msgstr "Elenco prezzi"
+
+#~ msgid "Create Price"
+#~ msgstr "Crea prezzo"
+
+#~ msgid "Manage Prices"
+#~ msgstr "Gestisci i prezzi"
+
+#~ msgid "Manage Price"
+#~ msgstr "Gestisci i prezzi"
+
+#~ msgid "View Price"
+#~ msgstr "Prezzi"
+
+#~ msgid "Update Price"
+#~ msgstr "Aggiornato prezzo"
+
+#~ msgid "Delete Price"
+#~ msgstr "Elimina il prezzo"
+
+#~ msgid "List Product"
+#~ msgstr "Elenco prodotti"
+
+#~ msgid "Create Product"
+#~ msgstr "Nuovo prodotto"
+
+#~ msgid "Manage Products"
+#~ msgstr "Gestisci i prodotti"
+
+#~ msgid "Manage Product"
+#~ msgstr "Gestisci i prodotti"
+
+#~ msgid "View Product"
+#~ msgstr "Prodotto"
+
+#~ msgid "Update Product"
+#~ msgstr "Aggiorna il prodotto"
+
+#~ msgid "Delete Product"
+#~ msgstr "Cancella il prodotto"
+
+#~ msgid "Royalties"
+#~ msgstr "Royalties"
+
+#~ msgid "List Royalty"
+#~ msgstr "Elenco Royalty"
+
+#~ msgid "Create Royalty"
+#~ msgstr "Nuova Royalty"
+
+#~ msgid "Manage Royalties"
+#~ msgstr "Gestisci le Royalty"
+
+#~ msgid "Manage Royalty"
+#~ msgstr "Gestisci le Royalty"
+
+#~ msgid "View Royalty"
+#~ msgstr "Royalty"
+
+#~ msgid "Update Royalty"
+#~ msgstr "Aggiorna la royalty"
+
+#~ msgid "Delete Royalty"
+#~ msgstr "Cancella la royalty"
+
+#~ msgid "List Rule"
+#~ msgstr "Regole"
+
+#~ msgid "Manage Rules"
+#~ msgstr "Gestisci le regole"
+
+#~ msgid "Manage Rule"
+#~ msgstr "Gestisci le regole"
+
+#~ msgid "Delete Rule"
+#~ msgstr "Elimina la regola"
+
+#~ msgid "List User"
+#~ msgstr "Elenco utenti"
+
+#~ msgid "Create User"
+#~ msgstr "Creata utente"
+
+#~ msgid "Manage Users"
+#~ msgstr "Gestisci gli utenti"
+
+#~ msgid "Manage User"
+#~ msgstr "Gestione utente"
+
+#~ msgid "View User"
+#~ msgstr "Utente"
+
+#~ msgid "Update user"
+#~ msgstr "Aggiornato l'utente"
+
+#~ msgid "Update User"
+#~ msgstr "Aggiornato l'utente"
+
+#~ msgid "Delete User"
+#~ msgstr "Elimina l'utente"
+
+#~ msgid "View user"
+#~ msgstr "Utente"
+
+#~ msgid "Id Channel"
+#~ msgstr "Canale di vendita"
+
+#~ msgid "Channel Name"
+#~ msgstr "Nome canale di vendita"
+
+#~ msgid "Channel Description"
+#~ msgstr "Descrizione canale di vendita"
+
+#~ msgid "Id Contact"
+#~ msgstr "Id Contatto"
+
+#~ msgid "Contact Type"
+#~ msgstr "Tipo contatto"
+
+#~ msgid "Company Name"
+#~ msgstr "Società"
+
+#~ msgid "Surname"
+#~ msgstr "Cognome"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Role"
+#~ msgstr "Ruolo"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "Mobile"
+#~ msgstr "Cellulare"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Note"
+#~ msgstr "Note"
+
+#~ msgid "Contract Name"
+#~ msgstr "Nome contratto"
+
+#~ msgid "Sell Off"
+#~ msgstr "Sell Off"
+
+#~ msgid "Default Royalty"
+#~ msgstr "Royalty di default"
+
+#~ msgid "Id Country"
+#~ msgstr "Id Paese"
+
+#~ msgid "Country Code"
+#~ msgstr "Codice Paese"
+
+#~ msgid "Country Name"
+#~ msgstr "Paese"
+
+#~ msgid "Country Base Currency"
+#~ msgstr "Valuta del Paese"
+
+#~ msgid "Id Currency"
+#~ msgstr "Id Valuta"
+
+#~ msgid "Currency Name"
+#~ msgstr "Nome valuta"
+
+#~ msgid "Currency Description"
+#~ msgstr "Descrizione valuta"
+
+#~ msgid "Currency Eur Rate"
+#~ msgstr "Euro ratio"
+
+#~ msgid "Id Entity"
+#~ msgstr "Id Società correlata"
+
+#~ msgid "Id Licensee"
+#~ msgstr "Id Licenziatario"
+
+#~ msgid "Address"
+#~ msgstr "Indirizzo"
+
+#~ msgid "Zip Code"
+#~ msgstr "CAP"
+
+#~ msgid "Tax Code"
+#~ msgstr "Partita IVA"
+
+#~ msgid "Id Event"
+#~ msgstr "Evento"
+
+#~ msgid "Id User"
+#~ msgstr "Utente"
+
+#~ msgid "Id Item"
+#~ msgstr "Elemento"
+
+#~ msgid "Table Name"
+#~ msgstr "Nome tabella"
+
+#~ msgid "Event Type"
+#~ msgstr "Tipo evento"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Stored Values"
+#~ msgstr "Valori"
+
+#~ msgid "User Owner"
+#~ msgstr "Utenza di gestione"
+
+#~ msgid "Update Time"
+#~ msgstr "Aggiornato il"
+
+#~ msgid "Author"
+#~ msgstr "Autore"
+
+#~ msgid "Last Editor"
+#~ msgstr "Modificato da"
+
+#~ msgid "Remember me next time"
+#~ msgstr "Ricordami"
+
+#~ msgid "Id Lookup"
+#~ msgstr "Id Lookup"
+
+#~ msgid "Code"
+#~ msgstr "Codice"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Amount"
+#~ msgstr "Valore"
+
+#~ msgid "Id Price"
+#~ msgstr "Prezzo"
+
+#~ msgid "Id Product"
+#~ msgstr "Prodotto"
+
+#~ msgid "Channel"
+#~ msgstr "Canale di vendita"
+
+#~ msgid "Price Min"
+#~ msgstr "Prezzo minimo"
+
+#~ msgid "Price Max"
+#~ msgstr "Prezzo massimo"
+
+#~ msgid "Product Name"
+#~ msgstr "Nome prodotto"
+
+#~ msgid "Standard Price"
+#~ msgstr "Prezzo standard"
+
+#~ msgid "Id Royalty"
+#~ msgstr "Royalty"
+
+#~ msgid "Product"
+#~ msgstr "Prodotto"
+
+#~ msgid "Year"
+#~ msgstr "Anno"
+
+#~ msgid "Unit Sold"
+#~ msgstr "Unità vendute"
+
+#~ msgid "Unit Price"
+#~ msgstr "Prezzo unitario"
+
+#~ msgid "Unit Produced"
+#~ msgstr "Unità prodotte"
+
+#~ msgid "Recommended Price"
+#~ msgstr "Prezzo raccomandato"
+
+#~ msgid "Total Amount"
+#~ msgstr "Valore totale"
+
+#~ msgid "Id Rule"
+#~ msgstr "Regola"
+
+#~ msgid "Royalty Value"
+#~ msgstr "Valore di royalty"
+
+#~ msgid "Rule Name"
+#~ msgstr "Nome regola"
+
+#~ msgid "Id Minimum"
+#~ msgstr "Id Minimo garantito"
+
+#~ msgid "Privilege"
+#~ msgstr "Ruolo"
+
+#~ msgid "Hello!"
+#~ msgstr "Ciaoooo!"
